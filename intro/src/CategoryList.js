@@ -4,7 +4,7 @@ export default class CategoryList extends Component {
     render() {
         return(
             <div>
-                <h2>CategoryList Component</h2>
+                <h6>CategoryList Component</h6>
             </div>
         );
     }
